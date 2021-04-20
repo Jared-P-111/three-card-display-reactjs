@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/three-card-display-reactjs/static/css/main.dc3b08f0.chunk.css",
+    "main.js": "/three-card-display-reactjs/static/js/main.3c79fd72.chunk.js",
+    "main.js.map": "/three-card-display-reactjs/static/js/main.3c79fd72.chunk.js.map",
+    "runtime-main.js": "/three-card-display-reactjs/static/js/runtime-main.530cad2d.js",
+    "runtime-main.js.map": "/three-card-display-reactjs/static/js/runtime-main.530cad2d.js.map",
+    "static/js/2.871202b2.chunk.js": "/three-card-display-reactjs/static/js/2.871202b2.chunk.js",
+    "static/js/2.871202b2.chunk.js.map": "/three-card-display-reactjs/static/js/2.871202b2.chunk.js.map",
+    "index.html": "/three-card-display-reactjs/index.html",
+    "static/css/main.dc3b08f0.chunk.css.map": "/three-card-display-reactjs/static/css/main.dc3b08f0.chunk.css.map",
+    "static/js/2.871202b2.chunk.js.LICENSE.txt": "/three-card-display-reactjs/static/js/2.871202b2.chunk.js.LICENSE.txt",
+    "static/media/iconLuxury.7d6e1aef.svg": "/three-card-display-reactjs/static/media/iconLuxury.7d6e1aef.svg",
+    "static/media/iconSedans.e7945028.svg": "/three-card-display-reactjs/static/media/iconSedans.e7945028.svg",
+    "static/media/iconSuvs.058b664c.svg": "/three-card-display-reactjs/static/media/iconSuvs.058b664c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.530cad2d.js",
+    "static/js/2.871202b2.chunk.js",
+    "static/css/main.dc3b08f0.chunk.css",
+    "static/js/main.3c79fd72.chunk.js"
+  ]
+}
